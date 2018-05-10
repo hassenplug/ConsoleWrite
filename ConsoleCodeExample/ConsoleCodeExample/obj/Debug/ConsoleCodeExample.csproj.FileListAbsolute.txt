@@ -1,0 +1,6 @@
+C:\Users\Steve Hassenplug\Google Drive\Jobs 18\crowehorwath\ConsoleCodeExample\ConsoleCodeExample\bin\Debug\ConsoleCodeExample.exe.config
+C:\Users\Steve Hassenplug\Google Drive\Jobs 18\crowehorwath\ConsoleCodeExample\ConsoleCodeExample\bin\Debug\ConsoleCodeExample.exe
+C:\Users\Steve Hassenplug\Google Drive\Jobs 18\crowehorwath\ConsoleCodeExample\ConsoleCodeExample\bin\Debug\ConsoleCodeExample.pdb
+C:\Users\Steve Hassenplug\Google Drive\Jobs 18\crowehorwath\ConsoleCodeExample\ConsoleCodeExample\obj\Debug\ConsoleCodeExample.csprojResolveAssemblyReference.cache
+C:\Users\Steve Hassenplug\Google Drive\Jobs 18\crowehorwath\ConsoleCodeExample\ConsoleCodeExample\obj\Debug\ConsoleCodeExample.exe
+C:\Users\Steve Hassenplug\Google Drive\Jobs 18\crowehorwath\ConsoleCodeExample\ConsoleCodeExample\obj\Debug\ConsoleCodeExample.pdb
